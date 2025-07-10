@@ -1,4 +1,4 @@
-<h1>📊 Fundamental Booster: Excel Lab & Practice Progress</h1>
+# 📊 Fundamental Booster: Excel Lab & Practice Progress
 <img src="https://img.shields.io/badge/Lab%20work%20and%20Self%20exercises-%23ffff76?logo=microsoft-excel&label=Excel" alt="Excel Lab work and Self exercises">
 <hr style="background:transparent;">
 
@@ -23,9 +23,7 @@
           ⚙️ PR. 1 Fundamental Booster
         </span>
         <div style="margin-bottom:6px;">
-          <span style="margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border:none;border-radius:4px;cursor:pointer;">
-            <a style="color:#fff;text-decoration:none;" href="PR. 1 Fundamental Booster.xlsx">code</a>
-          </span>
+          <a href="PR. 1 Fundamental Booster.xlsx" style="display:inline-block;margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border-radius:4px;text-decoration:none;font-weight:bold;">Download Excel File</a>
         </div>
       </td>
     </tr>
@@ -34,10 +32,10 @@
 
 <hr style="background:transparent;">
 
-<h2>📽️ Output Demo</h2>
-<video src="output/output.gif" style="max-width:100%;border-radius:8px;margin:12px 0;"></video>
+## 📽️ Output Demo
+
+[![Output Demo](output/output.gif)](output/output.gif)
 
 <hr style="background:transparent;">
-<blockquote>
-  <b>Note:</b> These project belongs to repositry <a href="https://github.com/Prath-code/Ms_Excel_Practice">Ms Excel Practice</a>
-</blockquote>
+
+> **Note:** This project belongs to [Microsoft Excel](https://github.com/Prath-code/Ms_Excel_Practice) Lab work and Self exercises.
