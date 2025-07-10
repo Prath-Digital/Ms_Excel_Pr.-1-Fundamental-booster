@@ -31,7 +31,13 @@
     </tr>
   </tbody>
 </table>
+
+<hr style="background:transparent;">
+
+<h2>📽️ Output Demo</h2>
+<video src="output/output.mp4" controls loop autoplay style="max-width:100%;border-radius:8px;margin:12px 0;"></video>
+
 <hr style="background:transparent;">
 <blockquote>
   <b>Note:</b> These project belongs to repositry <a href="https://github.com/Prath-code/Ms_Excel_Practice">Ms Excel Practice</a>
-</blockquote>   
+</blockquote>
