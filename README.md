@@ -36,6 +36,7 @@
 
 <h2>📽️ Output Demo</h2>
 <video src="output/output.mp4" controls loop autoplay style="max-width:100%;border-radius:8px;margin:12px 0;"></video>
+[▶️ Watch Output Demo](output/output.mp4)
 
 <hr style="background:transparent;">
 <blockquote>
