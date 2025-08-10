@@ -38,4 +38,4 @@
 
 <hr style="background:transparent;">
 
-> **Note:** This project belongs to [Microsoft Excel](https://github.com/Prath-code/Ms_Excel_Practice) Lab work and Self exercises.
+> **Note:** This project belongs to [Microsoft Excel](https://github.com/Prath-Digital/Ms_Excel_Practice) Lab work and Self exercises.
